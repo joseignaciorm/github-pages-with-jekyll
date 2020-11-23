@@ -1,4 +1,4 @@
 ---
 title: "Welcome to my data monitoring update charts"
-date: YYYY-MM-DD
+date: 2020-11-23
 ---
